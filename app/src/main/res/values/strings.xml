@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="main_board_layout">tic_tac_toe_board</string>
+</resources>
